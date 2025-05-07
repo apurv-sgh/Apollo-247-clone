@@ -14,7 +14,7 @@ export const Header = () => {
         <div className="flex items-center justify-between py-3 px-4 md:px-6 border-b">
           <div className="flex items-center">
             <Link href="/" className="mr-8">
-              <div className="text-[#02475b] font-bold text-xl">Apollo 247</div>
+              <div className="text-[#02475b] font-bold text-xl">Apollo 24/7</div>
             </Link>
             <nav className={`${isMenuOpen ? 'flex' : 'hidden'} md:flex flex-col md:flex-row absolute md:relative top-full left-0 w-full md:w-auto bg-white md:bg-transparent shadow-lg md:shadow-none z-50 md:space-x-6 p-4 md:p-0`}>
               <Link href="#" className="text-[#02475b] hover:text-[#04718b] font-medium py-2 md:py-0">Doctors</Link>

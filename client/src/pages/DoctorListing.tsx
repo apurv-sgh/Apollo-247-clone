@@ -206,7 +206,7 @@ const DoctorListing = () => {
         {/* Simple Footer */}
         <footer className="bg-[#02475b] text-white py-4 mt-8">
           <div className="container mx-auto px-4 text-center">
-            <p>© 2023 Apollo 247 Clone. All Rights Reserved.</p>
+            <p>© 2025 Apollo 24/7 Clone. All Rights Reserved.</p>
           </div>
         </footer>
       </div>
